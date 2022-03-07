@@ -10,8 +10,9 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
 
+description: "Wortart: Nomen | Lateinisch: 'Duschus Halbus' | Duschhalbe kann leben retten"
 ---
-
+<!--more-->
 
 ## Vorteile
 - erfrischt bei langen duschen
