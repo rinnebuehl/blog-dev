@@ -1,6 +1,4 @@
 [submodule "themes/uBlogger.git"]
 	path = themes/uBlogger.git
 	url = https://github.com/uPagge/uBlogger.git
-[submodule "public"]
-	path = public
-	url = git@github.com:rinnebuehl/rinnebuehl.github.io.git
+
